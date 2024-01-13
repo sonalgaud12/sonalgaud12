@@ -12,7 +12,7 @@
 
 - 📫 You can reach me out on my linkedIn [https://www.linkedin.com/in/sonal-gaud/](https://www.linkedin.com/in/sonal-gaud/)
 
-- 📧 My e-mail id is: **sonalgaud@gmail.com**
+- 📧 My e-mail id is: **sonalgaud12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
