@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web dev based project**
 
-- 🌱 I’m currently learning **machine learning & MERN**
+- 🌱 I’m currently learning **MERN**
 
 - ✨ I’m looking to collaborate on **Web Development.**
 
