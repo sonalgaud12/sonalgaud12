@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalgaud12&label=Profile%20views&color=0e75b6&style=flat" alt="sonalgaud12" /> </p>
 
 
-- 🔭 I’m currently working on **Web dev based project**
+- 🔭 Exploring **Web dev based project**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Currently practicing **DSA**
 
 - ✨ I’m looking to collaborate on **Web Development.**
-
-- 📫 You can reach me out on my linkedIn [https://www.linkedin.com/in/sonal-gaud/](https://www.linkedin.com/in/sonal-gaud/)
 
 - 📧 My e-mail id is: **sonalgaud12@gmail.com**
 
