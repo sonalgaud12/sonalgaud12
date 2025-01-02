@@ -4,13 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalgaud12&label=Profile%20views&color=0e75b6&style=flat" alt="sonalgaud12" /> </p>
 
 
-- 🔭 Exploring **Andriod based project**
 
-- 🌱 Currently practicing **DSA**
-
-- ✨ I’m looking to collaborate on **Andriod Application Development.**
-
-- 📧 My e-mail id is: **sonalgaud12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
