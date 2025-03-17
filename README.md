@@ -7,8 +7,8 @@
 </p>
 
 
-🔹 Working on **Observability Tools** and exploring **Golang**.  
-🔹 Passionate about **DevOps, Kubernetes & Microservices**.  
+🔹 Working on *Android Development using Java to build dynamic mobile applications.*
+🔹 Diving into Observability Tools and exploring Golang Also Passionate about DevOps, Kubernetes & Microservices. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
