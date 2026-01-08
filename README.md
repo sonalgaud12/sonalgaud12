@@ -23,14 +23,14 @@ I’m into backend systems, cloud-native tech, and projects where reliability an
 
 ## Life Outside the Terminal
 
-- Reading novels  
-- Listening to jazz
+- I Like Reading books (one book a month atleast) 
+- I love Listening to jazz (my kind of therapy)
 
 ---
 
 ## Perfect day
 
-jazz in my headphones and GitHub Actions going green in one go
+Well, I would say jazz in my headphones and GitHub Actions going green in one go
 
 
 <!-- GitHub Stats Card BELOW the GIF and text -->
